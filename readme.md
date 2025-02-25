@@ -14,5 +14,6 @@ Noticia sobre negociação frustrada de jogador de futebol
 
 ## Texto 3
 Resumo de analise economica
+
 <img src="inputs/imagem texto 31.png" alt=" Imagem 3" width="200">
 
